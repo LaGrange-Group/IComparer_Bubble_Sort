@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparer_Bubble_Sort", "IComparer_Bubble_Sort\IComparer_Bubble_Sort.csproj", "{6EF869F4-9D43-4684-96CB-740D4B5E53BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting_SortList", "UnitTesting_SortList\UnitTesting_SortList.csproj", "{E76E2FDD-EF84-4492-956F-4F7A5646798B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EF869F4-9D43-4684-96CB-740D4B5E53BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EF869F4-9D43-4684-96CB-740D4B5E53BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EF869F4-9D43-4684-96CB-740D4B5E53BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76E2FDD-EF84-4492-956F-4F7A5646798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76E2FDD-EF84-4492-956F-4F7A5646798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76E2FDD-EF84-4492-956F-4F7A5646798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76E2FDD-EF84-4492-956F-4F7A5646798B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
